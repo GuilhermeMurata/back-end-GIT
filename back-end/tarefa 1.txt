@@ -1,0 +1,17 @@
+Oque é front-end?
+Front-end é o responsável por toda parte visual(estilo, design, cores..etc) e interativa
+do site. 
+Exemplo: site: netflix.com
+- Na pagina "início"se encontra varias opções de séries, a forma como ele é posto
+e organizado são caracteristicas atribuidas através do front-end, até mesmo quando você
+clica na seta para ver mais opções no catalogo é um valor dado pelo front-end para que
+essa interação ocorra.
+
+Oque é back-end?
+Back-end é uma estrutura que possibilita a operação do sistema, sendo assim ele é o
+sistema todo por trás do site "visivel".
+Exemplo: site: netflix.com
+- Quando você clica para ver um episódio de alguma série seu browser manda uma requisição
+ao banco de dados, assim apontando que você deseja abrir um player de conteudo (x),
+em resposta o banco puxa esse arquivo de video e manda para a sua tela o conteudo (x).
+-Isso foi uma interação com o backend.
